@@ -1,7 +1,8 @@
 # fun_refresh
 
 Hello Fun!
-
+![打赏](./asset/4K.png)
+![截图](./asset/4K.png)
 ## Getting Started
 
 This project is a starting point for a Flutter application.
